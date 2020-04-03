@@ -1,6 +1,6 @@
 # GUI calculator
 
-This is a simple GUI calculator that currently operates by keyboard, not on-screen buttons.
+This is a simple GUI calculator that currently operates by both keyboard and on-screen buttons.
 
 The calculator can handle:
 
